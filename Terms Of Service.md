@@ -23,7 +23,7 @@ Your privacy matters. By using this bot, you acknowledge that I may collect cert
 Just Another Goose is provided "as-is," The development team makes no guarantees that the bot will always be online or bug-free. I am not liable for any damages, lost data, or server disruptions caused by the use or inability to use the bot.
 
 6. Termination of Access
-We reserve the right to block specific users, roles, or entire Discord servers from using [Bot Name] at any time, without warning, for violating these terms.
+We reserve the right to block specific users, roles, or entire Discord servers from using Just Another Goose at any time, without warning, for violating these terms.
 
 7. Changes to Terms
 We may update these terms from time to time. Continued use of the bot after updates means you accept the new terms.
