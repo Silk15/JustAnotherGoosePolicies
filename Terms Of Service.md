@@ -17,7 +17,7 @@ You agree NOT to use Just Another Goose to:
 - Use the bot for any illegal activities or to violate Discord’s Community Guidelines.
 - Attempt to reverse-engineer or steal the bot's code.
 
-4. Data and Privacy
+## Data and Privacy
 
 Your privacy matters. By using this bot, you acknowledge that I may collect certain data (such as User IDs, Server IDs, and form responses) to make the bot function. For full details, please read my [Privacy Policy](https://github.com/Silk15/JustAnotherGoosePolicies/blob/main/Privacy%20Policy.md). 
 
