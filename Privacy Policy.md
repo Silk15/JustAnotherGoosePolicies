@@ -1,7 +1,7 @@
 # Just Another Goose (Privacy Policy)
 **Last Updated: June 10th 2026**
 
-This bot collects data about your server's users via (but not limited to) the following methods; Forms, Bans, Punishments, Modums, Command uses. You retain the right to access and request deletion of this saved data at any time!
+This bot collects data about your server's users via (but not limited to) the following methods; Forms, Bans, Punishments, Modums, Command uses. You retain the right to access and request deletion of this saved data at any time [here](https://discord.gg/r3YgpE96tk)!
 
 What I collect:
 - User IDs
